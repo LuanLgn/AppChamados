@@ -39,7 +39,7 @@ Possibilidades de alteração e adição de informações:
 - **Dados do Solicitante:** Informações detalhadas como departamento, local, dados do cliente, fantasia, razão social, CNPJ, contato, email, telefone, fornecedor, jurídico.
 - **Alerta, Assunto, Solicitação, Tipo de Ocorrência, Impacto, Categoria, Tipo.**
 - **Descrição:** Opção de enviar email para o cliente e First Call Resolution (finalizar o chamado enquanto categoriza).
-- **Campos Extras:** Ex: Andar.
+- **Campos Extras:** Ex: Andar. (- **Aprovação por campo extra feita por auto-categorias**)
 - **Lista de ICs.**
 - **Transferência:** Grupo e operador.
 - **Opcionais:** SMS, frases prontas internas, observações internas.
@@ -176,6 +176,7 @@ Funcionalidades:
 
 ### Auto Categorias
 - **Informações dinâmicas:** Assunto, Grupo, Tipo de Ocorrência, Impacto, Categoria, Tipo, Descrição, SMS.
+
 
 ### Aprovação
 - **Configurações de aprovação de chamados:** Válido para clientes específicos, notificação de operadores, categorização de status para aprovação e reprovação.
